@@ -60,7 +60,7 @@
           <p><strong>Preguntas y Respuestas<a href="%C2%BFC%C3%B3mo+acceder+al+correo+de+empresa+desde+casa?+%C2%BFQu%C3%A9+es+y+por+qu%C3%A9+utilizar+el+doble+factor+de+autenticaci%C3%B3n+o+2FA?%C2%BFQu%C3%A9+debo+saber+para+configurar+y+activar+el+doble+factor+de+autenticaci%C3%B3n+%282FA%29+para+acceder+desde+un+terminal+m%C3%B3vil+%28tel%C3%A9fono+o+tableta%29?%C2%BFQu%C3%A9+debo+saber+para+configurar+y+activar+el+doble+factor+de+autenticaci%C3%B3n+%282FA%29+para+acceder+desde+casa?%C2%BFTiene+coste+la+autentificacion+de+doble+factor+por+llamada+telef%C3%B3nica?%C2%BFEs+obligatorio+utilizar+mi+m%C3%B3vil+personal,%20si%20no%20dispongo%20de%20uno%20corporativo?%C2%BFPor+qu%C3%A9+se+necesita+Intune?%C2%BFPor+qu%C3%A9+Outlook+y+no+otras+aplicaciones+de+correo?%C2%BFC%C3%B3mo+guardo+mis+contactos+en+mi+dispositivo+iOS+%28iPhone%29?En%20caso%20de%20necesitar%20ayuda,+%C2%BFA+qui%C3%A9n+puedo+recurrir?V%C3%ADdeo+ExplicativoListado+de+Aplicaciones"><br>
               </a></strong></p>
           <ul>
-            <li><a href="#ayuda">En
+            <li><a href="#En%20caso%20de%20necesitar%20ayuda,+%C2%BFA+qui%C3%A9n+puedo+recurrir?">En
                 caso de necesitar ayuda, ¿A quién puedo recurrir?</a></li>
             <li><a href="%C2%BFC%C3%B3mo+acceder+al+correo+de+empresa+desde+casa?+%C2%BFQu%C3%A9+es+y+por+qu%C3%A9+utilizar+el+doble+factor+de+autenticaci%C3%B3n+o+2FA?%C2%BFQu%C3%A9+debo+saber+para+configurar+y+activar+el+doble+factor+de+autenticaci%C3%B3n+%282FA%29+para+acceder+desde+un+terminal+m%C3%B3vil+%28tel%C3%A9fono+o+tableta%29?%C2%BFQu%C3%A9+debo+saber+para+configurar+y+activar+el+doble+factor+de+autenticaci%C3%B3n+%282FA%29+para+acceder+desde+casa?%C2%BFTiene+coste+la+autentificacion+de+doble+factor+por+llamada+telef%C3%B3nica?%C2%BFEs+obligatorio+utilizar+mi+m%C3%B3vil+personal,%20si%20no%20dispongo%20de%20uno%20corporativo?%C2%BFPor+qu%C3%A9+se+necesita+Intune?%C2%BFPor+qu%C3%A9+Outlook+y+no+otras+aplicaciones+de+correo?%C2%BFC%C3%B3mo+guardo+mis+contactos+en+mi+dispositivo+iOS+%28iPhone%29?En%20caso%20de%20necesitar%20ayuda,+%C2%BFA+qui%C3%A9n+puedo+recurrir?V%C3%ADdeo+ExplicativoListado+de+Aplicaciones">¿Cómo
                 acceder al correo de empresa desde casa?</a></li>
@@ -95,14 +95,14 @@
           </ul>
           <p></p>
           <hr><br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
           <p></p>
           &nbsp;
-          <p><a id="ayuda"><strong>En
+          <p><a id="En caso de necesitar ayuda, ¿A quién puedo recurrir?"><strong>En
                 caso de necesitar ayuda, ¿A quién puedo recurrir?</strong></a></p>
           <p>Si tiene problemas con la configuración de su teléfono o tableta,
             puede recurrir al servicio técnico de su Zona, para esto debe seguir
@@ -562,19 +562,9 @@
         </div>
         <!-- /.container --> </footer>
       <!-- Bootstrap core JavaScript -->
-      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-
-crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-
-integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-
-crossorigin="anonymous"></script>
-      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-
-integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-
-crossorigin="anonymous"></script>
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
     </div>
   </body>
