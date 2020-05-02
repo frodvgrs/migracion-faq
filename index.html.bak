@@ -86,22 +86,16 @@
           </ul>
           <br>
           <br>
-          <hr>
-          <br>
+          <hr> <br>
           <br>
           <br>
           <br>
           <br>
           <br>
           <hr> <a id="ayuda"></a><br>
-            <br>
-            <br>
-          </div>
-        <div class="col-lg-8"><a><br>
-          </a></div>
-        <div class="col-lg-8">
           <br>
-           <p><strong>En caso de necesitar ayuda, ¿A quién puedo recurrir?</strong></p>
+          <br>
+          <p><strong>En caso de necesitar ayuda, ¿A quién puedo recurrir?</strong></p>
           <p> Si tiene problemas con la configuración de su teléfono o tableta,
             puede recurrir al servicio técnico de su Zona, para esto debe seguir
             estos pasos: </p>
@@ -153,33 +147,20 @@
             </tbody>
           </table>
           <br>
-          <hr> <a id="correoCasa"></a>
+          <hr> <a id="correoCasa"></a> <br>
           <br>
           <br>
-          <br>
-          </div>
-        <div class="col-lg-8"><br>
-        </div>
-        <div class="col-lg-8"><br>
-            <p><strong>¿Cómo acceder al correo de empresa desde casa?</strong></p>
-          
+          <p><strong>¿Cómo acceder al correo de empresa desde casa?</strong></p>
           <p style="text-align: justify;">Para acceder al correo de empresa
-              desde casa, es necesario activar la autentificación de doble
-              factor, <a href="#Video">(ver vídeo)</a> </p>
+            desde casa, es necesario activar la autentificación de doble factor,
+            <a href="#Video">(ver vídeo)</a> </p>
           <p style="text-align: justify;">Desde los ordenadores de la empresa
             podrá acceder al correo desde cualquier ordenador. </p>
           <br>
           <hr> <a id="queEs2FA"></a><br>
-            <br>
-          </div>
-        <div class="col-lg-8"><a><br>
-          </a></div>
-        <div class="col-lg-8"><a><br>
-          </a></div>
-        <div class="col-lg-8"><br>
-            <p><strong>¿Qué es y por qué utilizar el doble factor de
-                autenticación o 2FA? </strong></p>
-         
+          <br>
+          <p><strong>¿Qué es y por qué utilizar el doble factor de autenticación
+              o 2FA? </strong></p>
           <p style="text-align: justify;">La autenticación de doble factor o
             2FA, es una capa adicional de seguridad para acceder a tu correo, y
             se ha diseñado con el objetivo de garantizar que eres la única
@@ -187,14 +168,13 @@
             contraseña.</p>
           <br>
           <hr> <a id="2FAMovil"></a><br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <p><strong>¿Qué debo saber para configurar y activar el doble factor
-                de autenticación (2FA) para acceder desde un terminal móvil
-                (teléfono o tableta)?</strong></p>
-          
+          <br>
+          <br>
+          <br>
+          <br>
+          <p><strong>¿Qué debo saber para configurar y activar el doble factor
+              de autenticación (2FA) para acceder desde un terminal móvil
+              (teléfono o tableta)?</strong></p>
           <p>Para utilizar le correo de empresa desde un terminal móvil, (sea el
             dispositivo personal o de empresa), necesitará tener 2 aplicaciones
             instaladas, el Intunes y el Microsoft Outlook.</p>
@@ -216,20 +196,17 @@
             con el servicio técnico de su zona</p>
           <br>
           <hr> <a id="2FACasa"></a><br>
-            <br>
-            <br>
-          </div>
-        <div class="col-lg-8"><br>
-          </div>
-        <div class="col-lg-8"><br>
-            <p><strong>¿Qué debo saber para configurar y activar el doble factor
-                de autenticación (2FA) para acceder desde casa?</strong></p>
-          
+          <br>
+          <br>
+          <p><strong>¿Qué debo saber para configurar y activar el doble factor
+              de autenticación (2FA) para acceder desde casa?</strong></p>
           <p>Existen dos formas diferentes para utilizar el factor de
             autenticación:</p>
           <br>
           <br>
-          <br><br><br>
+          <br>
+          <br>
+          <br>
           <a id="2FACasaA"></a><br>
           <p><strong>A- Autenticación mediante una Llamada telefónica </strong></p>
           <p style="text-align: justify;">Al configurar el factor de doble
@@ -241,8 +218,8 @@
           <ol style="list-style-type: lower-alpha;">
             <br>
             <br>
-            <li style="text-align: justify;"> Para acceder a su
-                correo de empresa debe acceder a la página de <a style="background: #ff5733  none repeat scroll 0% 0% !important;"
+            <li style="text-align: justify;"> Para acceder a su correo de
+              empresa debe acceder a la página de <a style="background: #ff5733  none repeat scroll 0% 0% !important;"
 
                 title="Login Office 365" href="https://login.microsoftonline.com"
 
@@ -257,9 +234,11 @@
             <li style="text-align: justify;"> Ahora ya podrá acceder al correo
               de empresa </li>
           </ol>
-             <br>
           <br>
-          <br><br><br>
+          <br>
+          <br>
+          <br>
+          <br>
           <a id="2FACasaB"></a><br>
           <p><strong>B - Autenticación mediante aplicación móvil</strong></p>
           <p style="text-align: justify;">En el momento de configurar el doble
@@ -267,10 +246,8 @@
             aplicación móvil. </p>
           <p style="text-align: justify;">En el teléfono de empresa o en su
             terminal personal, debe instalar la aplicación <a href="https://support.microsoft.com/es-es/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app">
-              Microsoft Authenticator </a> (<a href="https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&amp;hl=es_419"
-
+              Microsoft Authenticator</a> (<a href="https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&amp;hl=es_419"
               target="_blank" rel="noopener"> Android </a> | <a href="https://apps.apple.com/es/app/teamviewer-quicksupport/id661649585"
-
               target="_blank" rel="noopener"> Apple </a>), y seguir los pasos
             que le indican en pantalla para finalizar la configuración de esté
             método de autenticación. </p>
@@ -278,9 +255,7 @@
           <ol>
             <li style="text-align: justify;">Para acceder a su correo de empresa
               debe acceder a la página de <a style="background: #ff5733  none repeat scroll 0% 0% !important;"
-
                 title="Login Office 365" href="https://login.microsoftonline.com"
-
                 target="_blank" rel="noopener">Office365</a> </li>
             <li style="text-align: justify;">Debe escribir su correo electrónico
               completo, (si no lo recuerda contacte con el servicio técnico de
@@ -311,7 +286,9 @@
             <li style="text-align: justify;">Ya podrá acceder a su correo
               corporativo desdesu casa.</li>
           </ol>
-          <br><br><br>
+          <br>
+          <br>
+          <br>
           <hr> <a id="costeLlamada"><br>
             <br>
             <br>
@@ -319,7 +296,11 @@
                 llamada telefónica?</strong></p>
           </a>
           <p>No la llamada es Totalmente gratuita</p>
-          <br><br><br><br><br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
           <hr> <a id="MovilPersonal"><br>
             <br>
             <br>
@@ -330,11 +311,14 @@
             en caso de necesitar acceder desde casa, deberá seguir los pasos
             detallado en "<em>¿Qué debo saber para configurar y activar el doble
               factor de autenticación (2FA) para acceder desde casa?</em>"</p>
-          <br><br><br><br>
+          <br>
+          <br>
+          <br>
+          <br>
           <hr> <a id="Intune"></a><br>
-            <br>
-            <br>
-            <p><strong>¿Por qué se necesita Intune?</strong></p>
+          <br>
+          <br>
+          <p><strong>¿Por qué se necesita Intune?</strong></p>
           <p style="text-align: justify;">Intune es una herramienta obligatoria,
             y su función es securizar la conexión del Outlook del dispositivo
             móvil a Office365.</p>
@@ -345,19 +329,26 @@
             información, ni modifica otras aplicaciones, ni guarda datos
             personales, es una pasarela segura desde su dispositivo móvil hasta
             su cuenta de correo.</p>
-          <br><br><br><br><br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
           <hr> <a id="Outlook"></a><br>
-            <br>
-            <br>
-            <p><strong>¿Por qué Outlook y no otras aplicaciones de correo?</strong></p>
+          <br>
+          <br>
+          <p><strong>¿Por qué Outlook y no otras aplicaciones de correo?</strong></p>
           <p>Microsoft Outlook es la única aplicación que Porsche considera
             segura para dispositvos móviles.</p>
-          <br><br><br><br><br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
           <hr> <a id="contactosiOS"></a><br>
-            <br>
-            <br>
-            <p><strong>¿Cómo guardo mis contactos en mi dispositivo iOS
-                (iPhone)?</strong></p>
+          <br>
+          <br>
+          <p><strong>¿Cómo guardo mis contactos en mi dispositivo iOS (iPhone)?</strong></p>
           <p>Guardar los contactos en el dispositivo permite vincular nuevas
             llamadas y mensajes de texto con tus contactos existentes de
             Outlook. También puedes ver su información de contacto en la
@@ -393,19 +384,25 @@
             opción en cualquier momento y se eliminarán de tu libreta de
             direcciones. Los contactos guardados también se eliminarán de iCloud
             si tu cuenta de Office 365 o de Exchange se quita de Outlook.</p>
-          <br><br><br><br>
+          <br>
+          <br>
+          <br>
+          <br>
           <hr> <a id="Video"></a><br>
-            <br>
-            <br>
-            <p><strong>Vídeo Explicativo</strong></p>
+          <br>
+          <br>
+          <p><strong>Vídeo Explicativo</strong></p>
           <br>
           <p><iframe src="https://www.youtube-nocookie.com/embed/HqkQhBdqbSE" allowfullscreen="allowfullscreen"
               height="315" frameborder="0" width="560"></iframe>&nbsp; </p>
-          <br><br><br><br>
+          <br>
+          <br>
+          <br>
+          <br>
           <hr> <a id="Apps"></a><br>
-            <br>
-            <br>
-            <strong>Listado de Aplicaciones</strong>
+          <br>
+          <br>
+          <strong>Listado de Aplicaciones</strong>
           <table style="border-color: grey; border:0;">
             <tbody>
               <tr>
@@ -450,7 +447,6 @@
                     href="https://apps.apple.com/es/app/portal-de-empresa-de-intune/id719171358">
                     <img src="https://i.ibb.co/3cc2KQy/intune.png"> </a> </td>
                 <td style="text-align: center;"> <a title="https://apps.apple.com/es/app/portal-de-empresa-de-intune/id719171358"
-
                     href="https://apps.apple.com/es/app/portal-de-empresa-de-intune/id719171358">
                     <img src="https://i.ibb.co/3cc2KQy/intune.png"> </a> </td>
                 <td style="text-align: center;"> <a title="https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal&amp;hl=es_419"
@@ -458,7 +454,6 @@
                     href="https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal&amp;hl=es_419">
                     <img src="https://i.ibb.co/3cc2KQy/intune.png"> </a> </td>
                 <td style="text-align: center;"> <a title="https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal&amp;hl=es_419"
-
                     href="https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal&amp;hl=es_419">
                     <img src="https://i.ibb.co/3cc2KQy/intune.png"> </a> </td>
               </tr>
@@ -467,12 +462,10 @@
                   </strong>App que gestiona la doble autenticación&nbsp;(<em>Optativo</em>)
                 </td>
                 <td style="text-align: center;"> <a title="https://apps.apple.com/es/app/microsoft-authenticator/id983156458"
-
                     href="https://apps.apple.com/es/app/microsoft-authenticator/id983156458">
                     <img src="https://i.ibb.co/8B9NWYg/msauth.png"> </a> </td>
                 <td style="text-align: center;"> NO </td>
                 <td style="text-align: center;"> <a title="https://play.google.com/store/apps/details?id=com.azure.authenticator&amp;hl=es_419"
-
                     href="https://play.google.com/store/apps/details?id=com.azure.authenticator&amp;hl=es_419">
                     <img src="https://i.ibb.co/8B9NWYg/msauth.png"> </a> </td>
                 <td style="text-align: center;"> NO </td>
@@ -481,34 +474,27 @@
                 <td><strong>Microsoft Outlook</strong><br>
                   Cliente de correo electrónico&nbsp; </td>
                 <td style="text-align: center;"> <a title="https://apps.apple.com/es/app/microsoft-outlook/id951937596"
-
                     href="https://apps.apple.com/es/app/microsoft-outlook/id951937596">
                     <img src="https://i.ibb.co/xM4Vr2k/outlook-icon.png" height="90"
-
                       width="90"> </a> </td>
                 <td style="text-align: center;"> <a title="https://apps.apple.com/es/app/microsoft-outlook/id951937596"
-
                     href="https://apps.apple.com/es/app/microsoft-outlook/id951937596">
                     <img src="https://i.ibb.co/xM4Vr2k/outlook-icon.png" height="90"
-
                       width="90"> </a> </td>
                 <td style="text-align: center;"> <a title="https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&amp;hl=es_419"
-
                     href="https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&amp;hl=es_419">
                     <img src="https://i.ibb.co/xM4Vr2k/outlook-icon.png" height="90"
-
                       width="90"> </a> </td>
                 <td style="text-align: center;"> <a title="https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&amp;hl=es_419"
-
                     href="https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&amp;hl=es_419">
                     <img src="https://i.ibb.co/xM4Vr2k/outlook-icon.png" height="90"
-
                       width="90"> </a> </td>
               </tr>
             </tbody>
           </table>
+          <hr> 
           <!-- /.post -->
-          <hr> </div>
+          </div>
         <!-- Barra Lateral-->
         <div class="col-md-4">
           <!-- FErArg-->
@@ -551,19 +537,14 @@
       <!-- /.container --> </footer>
     <!-- Bootstrap core JavaScript -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-
 crossorigin="anonymous">
       </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-
 integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-
 crossorigin="anonymous">
      </script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-
 integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-
 crossorigin="anonymous">
       </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
